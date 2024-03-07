@@ -1,0 +1,16 @@
+p{
+    background-color: blue;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+a{
+    background-color: aquamarine;
+}
+
+.cuadrado{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
